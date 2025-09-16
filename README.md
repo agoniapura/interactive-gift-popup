@@ -35,7 +35,7 @@ I created this project as a gift for my girlfriend. I wanted to play a joke on h
 ## Customization
 
 - Change the question and button texts as you wish.
-- Add your own link to the `LINK` variable.
+- Add your own link to the `LINK` variable. 
 - Modify colors and fonts for your style.
 
 ## Author
