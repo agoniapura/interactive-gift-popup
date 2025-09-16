@@ -4,6 +4,10 @@
 
 This is a simple Python GUI application made with Tkinter. It displays a pop-up window with a playful question and two buttons: "Yes!" and "No, I hate you". If the user clicks "Yes!", a loading message appears and, after 5 seconds, a link is opened in the browser. If the user tries to click "No", the button moves to a random position in the window, making it impossible to click.
 
+## Why did you made this?
+
+I created this project as a gift for my girlfriend. I wanted to play a joke on her by making the "No" button move around whenever she tried to click it. That’s how this project was born and became a fun surprise for her. (Of course, I won’t share the exact version I made for her, but I’m making the source code available here.)
+
 ## What can it be used for?
 
 - Fun interactive gifts for friends or loved ones
